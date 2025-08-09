@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: terminal_colors
+Version: 0.0.0
+Summary: Utilitário para cores no terminal
+Author-email: Gustavo Araújo <guschbus008@gmail.com>
+License: MIT
+License-File: LICENSE
+Dynamic: license-file

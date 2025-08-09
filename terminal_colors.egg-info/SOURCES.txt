@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+terminal_colors/__init__.py
+terminal_colors/terminal_colors.py
+terminal_colors.egg-info/PKG-INFO
+terminal_colors.egg-info/SOURCES.txt
+terminal_colors.egg-info/dependency_links.txt
+terminal_colors.egg-info/top_level.txt
