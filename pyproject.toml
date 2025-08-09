@@ -9,5 +9,5 @@ description = "Utilitário para cores no terminal"
 authors = [
     { name = "Gustavo Araújo", email = "guschbus008@gmail.com" }
 ]
-license = { text = "MIT" }
+license = { text = "LICENSE" }
 dependencies = []
