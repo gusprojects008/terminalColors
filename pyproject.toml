@@ -1,7 +1,3 @@
-[build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "terminal_colors"
 version = "0.0.0"
@@ -9,5 +5,6 @@ description = "Utilitário para cores no terminal"
 authors = [
     { name = "Gustavo Araújo", email = "guschbus008@gmail.com" }
 ]
-license = { text = "LICENSE" }
+license = { file = "LICENSE" }
+readme = "README.md"
 dependencies = []
