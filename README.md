@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## How to use
+## Usage
 
 ```python
 from terminalColors import colors
