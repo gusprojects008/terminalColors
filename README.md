@@ -20,7 +20,6 @@ pip install git+https://github.com/gusprojects008/terminalColors.git
 ### 3) Install a specific tag/version or commit
 
 ```bash
-# tag
 pip install git+https://github.com/gusprojects008/terminalColors.git@v0.0.0
 ```
 
