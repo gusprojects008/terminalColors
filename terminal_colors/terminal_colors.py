@@ -48,11 +48,13 @@ class Colors:
 
         self.pink = self.bright_purple
 
+        self.by = f"{self.bright}{self.yellow}"
         self.bg = f"{self.bright}{self.green}"
         self.br = f"{self.bright}{self.red}"
         self.bb = f"{self.bright}{self.blue}"
         self.bp = f"{self.bright}{self.purple}"
 
+        senf.trying = f"{self.by}[TRYING]{self.reset} "
         self.ok = f"{self.bg}[OK]{self.reset} "
         self.error = f"{self.br}[ERROR]{self.reset} "
         self.check = f"{self.bp}[CHECK]{self.reset} "
