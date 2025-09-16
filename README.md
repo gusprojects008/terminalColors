@@ -50,5 +50,5 @@ pip install -r requirements.txt
 ```python
 from terminalColors import Colors
 colors = Colors("", "")
-print(Colors("blue", "Hello World"))
+print(colors("blue", "Hello World"))
 ```
